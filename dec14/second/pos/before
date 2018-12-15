@@ -1,36 +1,18 @@
 header: 
-  seq: 89
+  seq: 17
   stamp: 
-    secs: 1544797480
-    nsecs:  58117493
+    secs: 1544856955
+    nsecs: 877556501
   frame_id: "map"
 poses: 
   - 
     position: 
-      x: 53.1681535973
-      y: -44.1177104222
+      x: 53.2510726225
+      y: -43.5945096362
       z: 0.0
     orientation: 
       x: 0.0
       y: 0.0
-      z: 0.842032925404
-      w: 0.539426132603
----
-header: 
-  seq: 90
-  stamp: 
-    secs: 1544797487
-    nsecs: 535146665
-  frame_id: "map"
-poses: 
-  - 
-    position: 
-      x: 55.6
-      y: -45.85
-      z: 0.0
-    orientation: 
-      x: -0.0
-      y: 0.0
-      z: 0.777863762458
-      w: -0.628432945552
+      z: 0.802374434033
+      w: 0.596820967804
 ---
